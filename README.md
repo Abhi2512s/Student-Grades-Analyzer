@@ -1,4 +1,4 @@
-# Student Grades Analyzer 2.0 🎓📊
+# Student Grades Analyzer 2.0
 
 A **Python mini-project** to manage student records, calculate averages, find toppers, and search students interactively.  
 Ideal for learning **Python dictionaries, loops, functions, file handling**, and building a portfolio project.
@@ -56,7 +56,7 @@ python student_analyzer.py
 6. Exit
 Enter your choice (1-6): 1
 
-🎓 ---- All Students ----
+ ---- All Students ----
 Name: Riya, Age: 21, Marks: {'Math': 90, 'English': 88, 'Science': 95}, Average: 91.00 ⭐ Topper
 Name: Amit, Age: 20, Marks: {'Math': 78, 'English': 65, 'Science': 89}, Average: 77.33
 Name: Sneha, Age: 22, Marks: {'Math': 45, 'English': 56, 'Science': 67}, Average: 56.00
